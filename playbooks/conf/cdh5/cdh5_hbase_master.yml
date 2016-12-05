@@ -1,0 +1,7 @@
+- hosts: hbase_master
+  roles:
+    - { role: common, common_config_hostname: True }
+    - jdk
+    - cdh5_base
+    - zookeeper_server
+    - cdh5_hbase_master

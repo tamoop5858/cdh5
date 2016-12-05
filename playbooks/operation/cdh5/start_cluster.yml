@@ -1,0 +1,4 @@
+- include: start_zookeeper.yml
+- include: start_hdfs.yml
+- include: start_yarn.yml
+- include: start_hbase.yml
