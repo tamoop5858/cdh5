@@ -1,0 +1,8 @@
+- name: set manage zookeeper to false
+  sudo: yes
+  lineinfile: dest=/etc/hbase/conf/hbase-env.sh regexp='HBASE_MANAGES_ZK' line='export HBASE_MANAGES_ZK=false'
+
+- name: copy the hbase configuration files
+  template: src={{ item }}.j2 dest=/etc/hbase/conf/{{ item }} mode=644
+  with_items:
+    - hbase-site.xml

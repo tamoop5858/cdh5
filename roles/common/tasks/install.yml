@@ -1,0 +1,12 @@
+- name: install_common_softwares
+  apt: name={{ item }} state=installed update_cache=yes
+  with_items:
+    - debian-archive-keyring
+    - vim
+    - zip
+    - unzip
+    - man
+    - wget
+    - ntp
+    - git
+    - ant

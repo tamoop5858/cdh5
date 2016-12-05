@@ -1,0 +1,3 @@
+dependencies:
+  - {role: cdh5_base}
+  - {role: zookeeper_server}
