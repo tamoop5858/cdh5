@@ -1,2 +1,0 @@
-Defaults   env_keep += "HTTP_PROXY"
-Defaults   env_keep += "HTTPS_PROXY"
