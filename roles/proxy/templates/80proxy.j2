@@ -1,0 +1,2 @@
+Acquire::http::proxy "http://{% if http_proxy_user is defined %}{{ http_proxy_user }}:{{ http_proxy_password }}@{%endif%}{{ http_proxy_host }}:{{ http_proxy_port }}";
+Acquire::http::proxys "http://{% if http_proxy_user is defined %}{{ http_proxy_user }}:{{ http_proxy_password }}@{%endif%}{{ http_proxy_host }}:{{ http_proxy_port }}";

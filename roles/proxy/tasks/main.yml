@@ -1,0 +1,8 @@
+---
+- name: copy_bash_frofile
+  template: src=proxy.sh.j2 dest=/etc/profile.d/proxy.sh mode=644
+  when: http_proxy_host is defined
+  
+- name: copy_apt_config
+  template: src=80proxy.j2 dest=/etc/apt.config.d/80proxy mode=644
+  when: http_proxy_host is defined
