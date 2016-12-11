@@ -1,4 +1,0 @@
-- name: install_zookeeper_packages
-  apt: name={{ item }} state=installed update_cache=yes
-  with_items:
-    - zookeeper-server
