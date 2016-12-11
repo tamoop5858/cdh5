@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<!-- Put site-specific property overrides in this file. -->
+
+<configuration>
+	<property>
+	  <name>http.agent.name</name>
+	  <value>Mozilla/5.0 (Windows; U; Windows NT 5.1; ja; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6</value>
+	</property>
+	<property>
+	  <name>http.robots.agents</name>
+	  <value>Mozilla/5.0 (Windows; U; Windows NT 5.1; ja; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6</value>
+	</property>
+	<property>
+	  <name>http.agent.version</name>
+	  <value></value>
+	</property>
+	<property>
+	 <name>storage.data.store.class</name>
+	 <value>org.apache.gora.hbase.store.HBaseStore</value>
+	 <description>Default class for storing data</description>
+	</property>
+	<property>
+	  <name>parser.character.encoding.default</name>
+	  <value>UTF-8</value>
+	  <description>The character encoding to fall back to when no other information is available</description>
+	</property>
+	<property>
+	  <name>plugin.includes</name>
+	 <value>protocol-httpclient|urlfilter-regex|parse-html|urlnormalizer-(pass|regex|basic)|scoring-opic</value>
+	</property>
+</configuration>
