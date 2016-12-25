@@ -1,0 +1,1742 @@
+<html>
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=EUC-JP">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<title>国土交通省ネガティブ情報等検索システム</title>
+</head>
+
+<body>
+<form action="./ihangaiyo.cgi" method="post" target="_blank">
+<table align="center" border="0" width="100%" bgcolor="#ffffcc">
+	<tr>
+	<td valign="top">
+	<font size="+1">
+	<strong><div align="center">【 検索結果一覧 】</div></strong>
+	</font>
+	<div align="right">
+	<strong>213</strong>
+	<font size="-1">件が選択されました。</font>
+	</div>
+	<br>
+	<table align="center" border="1" width="95%" style="font-size:13px">
+		<tr>
+		<th bgcolor="#cccccc">処分等年月日</th>
+		<th bgcolor="#cccccc">事業者名</th>
+		<th bgcolor="#cccccc">本社住所</th>
+		<th bgcolor="#cccccc">処分等の種類</th>
+		<th colspan="2" bgcolor="#cccccc">処分内容</th>
+		</tr>
+<tr>
+<td>2016年8月31日</td>
+<td>富永　暢子（第１７６２１９号）</td>
+<td></td>
+<td>免許取消</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=1','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000628.html')"></td>
+</tr>
+<tr>
+<td>2016年8月31日</td>
+<td>村越　信保（第２３３２１３号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=2','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000628.html')"></td>
+</tr>
+<tr>
+<td>2016年8月31日</td>
+<td>矢吹　良一（第１５００１７号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=3','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000628.html')"></td>
+</tr>
+<tr>
+<td>2016年8月31日</td>
+<td>梅垣　浩之（第２１２１４３号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=4','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000628.html')"></td>
+</tr>
+<tr>
+<td>2016年8月31日</td>
+<td>西尾　千春（第７３０１０号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=5','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000628.html')"></td>
+</tr>
+<tr>
+<td>2016年8月31日</td>
+<td>上原　秀晃（第７０７１８号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=6','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000628.html')"></td>
+</tr>
+<tr>
+<td>2016年8月31日</td>
+<td>渡辺　淳（第２５７９２１号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=7','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000628.html')"></td>
+</tr>
+<tr>
+<td>2016年8月31日</td>
+<td>井上　穰（第９８６８５号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=8','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000628.html')"></td>
+</tr>
+<tr>
+<td>2016年8月31日</td>
+<td>柿沼　康祐（第３１６６１６号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=9','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000628.html')"></td>
+</tr>
+<tr>
+<td>2016年8月31日</td>
+<td>�M田　徹三（第１２０３０４号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=10','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000628.html')"></td>
+</tr>
+<tr>
+<td>2016年8月31日</td>
+<td>関根　淳（第３３３２６８号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=11','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000628.html')"></td>
+</tr>
+<tr>
+<td>2016年8月31日</td>
+<td>中村　竜太（第３３４０６７号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=12','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000628.html')"></td>
+</tr>
+<tr>
+<td>2016年8月31日</td>
+<td>酒井　昇（第１５７２０７号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=13','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000628.html')"></td>
+</tr>
+<tr>
+<td>2016年8月31日</td>
+<td>上田　進（第２０４６７２号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=14','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000628.html')"></td>
+</tr>
+<tr>
+<td>2016年8月31日</td>
+<td>山根　博文（第３１５９３０号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=15','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000628.html')"></td>
+</tr>
+<tr>
+<td>2016年3月23日</td>
+<td>木下　博義（第１１９７７２号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=16','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.qsr.mlit.go.jp/n-kisyahappyou/h28/')"></td>
+</tr>
+<tr>
+<td>2016年3月23日</td>
+<td>矢野　秀幸（第２４５９０２号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=17','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.qsr.mlit.go.jp/n-kisyahappyou/h28/')"></td>
+</tr>
+<tr>
+<td>2016年3月23日</td>
+<td>川辺　治彦（第１７０５３８号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=18','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.qsr.mlit.go.jp/n-kisyahappyou/h28/')"></td>
+</tr>
+<tr>
+<td>2016年3月23日</td>
+<td>南　稔（第２０５５１６号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=19','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.qsr.mlit.go.jp/n-kisyahappyou/h28/')"></td>
+</tr>
+<tr>
+<td>2016年3月22日</td>
+<td>小渡　雅己（第８７９７１号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=20','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" disabled></td>
+</tr>
+<tr>
+<td>2015年12月4日</td>
+<td>宮本　利博（第２３５６９９号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=21','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000598.html')"></td>
+</tr>
+<tr>
+<td>2015年12月4日</td>
+<td>三村　芳弘（第３４４９９９号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=22','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000598.html')"></td>
+</tr>
+<tr>
+<td>2015年12月4日</td>
+<td>杉本　宏明（第２１６４８６号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=23','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000598.html')"></td>
+</tr>
+<tr>
+<td>2015年12月4日</td>
+<td>中嶋　敬三（第２６２６８３号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=24','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000598.html')"></td>
+</tr>
+<tr>
+<td>2015年12月4日</td>
+<td>荒木　絃二郎（第１８１１７０号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=25','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000598.html')"></td>
+</tr>
+<tr>
+<td>2015年8月25日</td>
+<td>宇都宮　正雄（第３０４５５４号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=26','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000581.html')"></td>
+</tr>
+<tr>
+<td>2015年8月25日</td>
+<td>内藤　政治（第１３４５８６号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=27','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000581.html')"></td>
+</tr>
+<tr>
+<td>2015年8月25日</td>
+<td>内田　直希（第２０９８４９号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=28','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000581.html')"></td>
+</tr>
+<tr>
+<td>2015年4月23日</td>
+<td>小川　俊一（第１９４５６８号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=29','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000558.html')"></td>
+</tr>
+<tr>
+<td>2015年4月23日</td>
+<td>前田　重敏（第３０００４４号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=30','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000558.html')"></td>
+</tr>
+<tr>
+<td>2015年4月23日</td>
+<td>浜　圭司（第３２９８３４号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=31','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000558.html')"></td>
+</tr>
+<tr>
+<td>2015年4月23日</td>
+<td>君島　勲（第１８４４９１号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=32','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000558.html')"></td>
+</tr>
+<tr>
+<td>2015年2月25日</td>
+<td>鬼沢　治文（第１９３８６１号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=33','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000538.html')"></td>
+</tr>
+<tr>
+<td>2015年2月25日</td>
+<td>富澤　厚子（第２４１４０１号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=34','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000538.html')"></td>
+</tr>
+<tr>
+<td>2015年2月25日</td>
+<td>島田　宏（第４５９３５号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=35','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000538.html')"></td>
+</tr>
+<tr>
+<td>2015年2月25日</td>
+<td>後藤　正敏（第１０８３５４号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=36','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000538.html')"></td>
+</tr>
+<tr>
+<td>2015年2月25日</td>
+<td>柳川　末夫（第１５０８４７号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=37','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000538.html')"></td>
+</tr>
+<tr>
+<td>2015年2月25日</td>
+<td>武田　祐史（第２６７８４７号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=38','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000538.html')"></td>
+</tr>
+<tr>
+<td>2015年2月23日</td>
+<td>木平　善久（第２１５９４３号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=39','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000538.html')"></td>
+</tr>
+<tr>
+<td>2015年2月23日</td>
+<td>久保　隆邦（第５７８３９号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=40','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000538.html')"></td>
+</tr>
+<tr>
+<td>2015年2月23日</td>
+<td>中村　良二（第２８０１８４号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=41','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000538.html')"></td>
+</tr>
+<tr>
+<td>2015年2月23日</td>
+<td>安川　真人（第２４３８５２号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=42','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000538.html')"></td>
+</tr>
+<tr>
+<td>2015年2月23日</td>
+<td>工藤　淳一（第１９１９１９号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=43','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000538.html')"></td>
+</tr>
+<tr>
+<td>2015年2月23日</td>
+<td>嶽　重一（第１４７４８２号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=44','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000538.html')"></td>
+</tr>
+<tr>
+<td>2015年2月23日</td>
+<td>中村　紀幸（第６７０７１号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=45','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000538.html')"></td>
+</tr>
+<tr>
+<td>2015年2月23日</td>
+<td>東　勇二（第２０３４６０号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=46','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000538.html')"></td>
+</tr>
+<tr>
+<td>2015年2月23日</td>
+<td>松尾　秀一（第６４６７６号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=47','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000538.html')"></td>
+</tr>
+<tr>
+<td>2015年2月10日</td>
+<td>山�ｱ　康洋（第１２２２７６号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=48','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000538.html')"></td>
+</tr>
+<tr>
+<td>2014年8月28日</td>
+<td>山本　了一（第１００６４１号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=49','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000500.html')"></td>
+</tr>
+<tr>
+<td>2014年8月28日</td>
+<td>小野　秀一（第１０３０４８号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=50','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000500.html')"></td>
+</tr>
+<tr>
+<td>2014年8月28日</td>
+<td>奥井　義信（第８４５７７号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=51','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000500.html')"></td>
+</tr>
+<tr>
+<td>2014年8月28日</td>
+<td>横尾　武史（第８４６０１号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=52','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000500.html')"></td>
+</tr>
+<tr>
+<td>2014年8月28日</td>
+<td>大塚　民夫（第１３１５７９号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=53','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000500.html')"></td>
+</tr>
+<tr>
+<td>2014年8月28日</td>
+<td>辰巳　愁侍（第１５８９６８号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=54','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000500.html')"></td>
+</tr>
+<tr>
+<td>2014年8月19日</td>
+<td>松下　大輔（第３１５９４１号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=55','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000497.html')"></td>
+</tr>
+<tr>
+<td>2014年8月19日</td>
+<td>浅枝　幸良（第２６２３９６号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=56','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000497.html')"></td>
+</tr>
+<tr>
+<td>2014年8月5日</td>
+<td>太田　秀樹（第１９９８７１号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=57','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000497.html')"></td>
+</tr>
+<tr>
+<td>2014年8月5日</td>
+<td>中田　勉（第１７９８４８号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=58','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000497.html')"></td>
+</tr>
+<tr>
+<td>2014年8月5日</td>
+<td>田中　俊介（第４２４８１号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=59','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000497.html')"></td>
+</tr>
+<tr>
+<td>2014年8月5日</td>
+<td>石田　利徳（第３８５６０号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=60','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000497.html')"></td>
+</tr>
+<tr>
+<td>2014年8月5日</td>
+<td>河野　昭彦（第１３９３９０号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=61','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000497.html')"></td>
+</tr>
+<tr>
+<td>2014年8月5日</td>
+<td>権業　眞伸（第２０９５５５号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=62','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000497.html')"></td>
+</tr>
+<tr>
+<td>2014年8月5日</td>
+<td>竹川　修司（第９９２８４号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=63','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000497.html')"></td>
+</tr>
+<tr>
+<td>2014年8月5日</td>
+<td>玉井　香里（第２７９８０５号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=64','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000497.html')"></td>
+</tr>
+<tr>
+<td>2014年8月5日</td>
+<td>塔筋　就子（第６４０２９号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=65','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000497.html')"></td>
+</tr>
+<tr>
+<td>2014年8月5日</td>
+<td>植田　祐滋（第１３９４１１号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=66','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000497.html')"></td>
+</tr>
+<tr>
+<td>2014年8月5日</td>
+<td>巽　和愛（第１２２６４２号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=67','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000497.html')"></td>
+</tr>
+<tr>
+<td>2014年8月4日</td>
+<td>飛田　俊明（第２３２０８５号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=68','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000497.html')"></td>
+</tr>
+<tr>
+<td>2014年8月4日</td>
+<td>豊嶋　裕（第２１４３８０号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=69','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000497.html')"></td>
+</tr>
+<tr>
+<td>2014年8月4日</td>
+<td>村関　次男（第１１１９８２号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=70','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000497.html')"></td>
+</tr>
+<tr>
+<td>2014年8月4日</td>
+<td>遠藤　孝（第１３１０５７号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=71','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000497.html')"></td>
+</tr>
+<tr>
+<td>2014年8月4日</td>
+<td>柏崎　直久（第１２４３２３号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=72','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000497.html')"></td>
+</tr>
+<tr>
+<td>2014年8月4日</td>
+<td>松浦　寛（第３１１８３号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=73','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000497.html')"></td>
+</tr>
+<tr>
+<td>2014年8月1日</td>
+<td>山田　裕之（第２８６２６９号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=74','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000500.html')"></td>
+</tr>
+<tr>
+<td>2014年3月20日</td>
+<td>生西　歳行（第７１１０６号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=75','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000471.html')"></td>
+</tr>
+<tr>
+<td>2014年3月19日</td>
+<td>岡田　雅志（第１５８５９２号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=76','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000471.html')"></td>
+</tr>
+<tr>
+<td>2014年3月19日</td>
+<td>郡山　正志（第２３８３８６号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=77','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000471.html')"></td>
+</tr>
+<tr>
+<td>2014年3月19日</td>
+<td>重山　直子（第１７３８５０号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=78','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000471.html')"></td>
+</tr>
+<tr>
+<td>2014年3月19日</td>
+<td>��橋　也都（第２４５５５２号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=79','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000471.html')"></td>
+</tr>
+<tr>
+<td>2014年3月19日</td>
+<td>平野　耕一（第５６２７４号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=80','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000471.html')"></td>
+</tr>
+<tr>
+<td>2014年3月19日</td>
+<td>��原　雅弘（第２０９８７７号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=81','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000471.html')"></td>
+</tr>
+<tr>
+<td>2014年3月19日</td>
+<td>高橋　伸久（１９４８９１号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=82','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000471.html')"></td>
+</tr>
+<tr>
+<td>2014年3月19日</td>
+<td>花岡　治（２１８４９２号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=83','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000471.html')"></td>
+</tr>
+<tr>
+<td>2014年3月19日</td>
+<td>山城　重信（第５５３１９号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=84','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000471.html')"></td>
+</tr>
+<tr>
+<td>2014年3月17日</td>
+<td>山下　富夫（第１１７４１０号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=85','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000471.html')"></td>
+</tr>
+<tr>
+<td>2014年3月17日</td>
+<td>市村　敏雄（第２３０７４０号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=86','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000471.html')"></td>
+</tr>
+<tr>
+<td>2014年3月17日</td>
+<td>杉山　康一郎（第２３３３５１号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=87','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000471.html')"></td>
+</tr>
+<tr>
+<td>2014年3月17日</td>
+<td>三ケ月　忍（第２８５６５９号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=88','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000471.html')"></td>
+</tr>
+<tr>
+<td>2014年3月17日</td>
+<td>大久保　忠彦（第６１３３０号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=89','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000471.html')"></td>
+</tr>
+<tr>
+<td>2014年3月17日</td>
+<td>太田　成男（第１２７１７２号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=90','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000471.html')"></td>
+</tr>
+<tr>
+<td>2014年3月17日</td>
+<td>片山　茂樹（第１５７７２５号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=91','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000471.html')"></td>
+</tr>
+<tr>
+<td>2014年3月17日</td>
+<td>戸田　修司（第１４１９１９号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=92','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000471.html')"></td>
+</tr>
+<tr>
+<td>2014年3月17日</td>
+<td>仲俣　一朗（第４４３８０号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=93','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000471.html')"></td>
+</tr>
+<tr>
+<td>2014年3月17日</td>
+<td>松井　芳雄（第２８２５３４号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=94','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000471.html')"></td>
+</tr>
+<tr>
+<td>2014年3月17日</td>
+<td>安藤　一広（第１６６５９９号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=95','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000471.html')"></td>
+</tr>
+<tr>
+<td>2014年3月12日</td>
+<td>久能　泰則（第１３７０２１号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=96','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000471.html')"></td>
+</tr>
+<tr>
+<td>2013年12月6日</td>
+<td>清水　肇（第１９９０５１号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=97','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000450.html')"></td>
+</tr>
+<tr>
+<td>2013年12月6日</td>
+<td>吉田　城太（第２６９８２４号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=98','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000450.html')"></td>
+</tr>
+<tr>
+<td>2013年12月6日</td>
+<td>鈴木　道郎（第４４２５６号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=99','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000450.html')"></td>
+</tr>
+<tr>
+<td>2013年12月6日</td>
+<td>小林　達功（第１２８９９０号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=100','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000450.html')"></td>
+</tr>
+<tr>
+<td>2013年12月6日</td>
+<td>松浦　健治（第２３８３０４号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=101','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000450.html')"></td>
+</tr>
+<tr>
+<td>2013年12月6日</td>
+<td>小宮山　直樹（第２５２０８６号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=102','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000450.html')"></td>
+</tr>
+<tr>
+<td>2013年11月25日</td>
+<td>菅原　康晴（第１５８９６４号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=103','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000444.html')"></td>
+</tr>
+<tr>
+<td>2013年11月21日</td>
+<td>岡田　孝行（第８３４０６号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=104','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000444.html')"></td>
+</tr>
+<tr>
+<td>2013年11月21日</td>
+<td>門田　家平（第８２３５６号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=105','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000444.html')"></td>
+</tr>
+<tr>
+<td>2013年11月21日</td>
+<td>諏訪野　正勝（第６５０９７号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=106','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000444.html')"></td>
+</tr>
+<tr>
+<td>2013年11月21日</td>
+<td>関野　由紀晴（第２４２１９６号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=107','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000444.html')"></td>
+</tr>
+<tr>
+<td>2013年11月21日</td>
+<td>入來　和哉（第８２６２５号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=108','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000444.html')"></td>
+</tr>
+<tr>
+<td>2013年11月21日</td>
+<td>草別　誠（第１５６６４４号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=109','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000444.html')"></td>
+</tr>
+<tr>
+<td>2013年11月21日</td>
+<td>三澤　直寛（第１８６８９０号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=110','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000444.html')"></td>
+</tr>
+<tr>
+<td>2013年11月21日</td>
+<td>山本　吉美（第１１５２５１号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=111','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000444.html')"></td>
+</tr>
+<tr>
+<td>2013年11月21日</td>
+<td>杉浦　良和（第１８４７３９号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=112','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000444.html')"></td>
+</tr>
+<tr>
+<td>2013年11月21日</td>
+<td>坂口　敏男（第１１７４４８号）</td>
+<td></td>
+<td>戒告</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=113','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000444.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>川那　勝成（第１９５５１８号）</td>
+<td></td>
+<td>免許取消</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=114','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>村上　憲弘（第８３４７０号）</td>
+<td></td>
+<td>免許取消</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=115','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>仲盛　昭二（第１２６９７３号）</td>
+<td></td>
+<td>免許取消</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=116','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>尾崎　功始（第１９５５０６号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=117','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>安齋　正明（第２４０１２７号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=118','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>今吉　博幸（第１４３５８６号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=119','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>小林　正信（第１６８７８３号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=120','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>村田　吉生（第２１６６３５号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=121','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>安田　孝博（第１９００７５号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=122','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>松井　保之（第２８３９２８号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=123','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>西尾　篤（第２２２７９７号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=124','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>有江　正知（第１５６７９４号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=125','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>玉城　俊弘（第２１４６３０号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=126','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>椿野　登志男（第１５０７０４号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=127','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>吉原　和行（第１４５７３５号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=128','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>佐藤　　峻（第１４４１８７号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=129','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>広瀬　伸雄（第８２５５５号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=130','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>上田　健司（第２５８２４６号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=131','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>古田　義弘（第７８９９４号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=132','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>山�ｱ　孝一（第２４１０２７号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=133','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>板野　泰之（第２１３８３５号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=134','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>井上　長年（第９０５５６号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=135','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>萱原　正利（第１９６７０３号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=136','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>西村　亮二（第２７８４１４号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=137','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>安部　励貴（第２７８３６２号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=138','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>酒井　隆幸（第２８０７９１号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=139','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>佐藤　良一（第１９２５２３号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=140','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>江上　晴雄（第１３７１５５号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=141','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>岡田　可成（第２６１８０６号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=142','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>市川　隆夫（第２０１３１４号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=143','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>足利　寿信（第２７０７９５号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=144','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2013年9月4日</td>
+<td>惠谷　順一（第１６２１５９号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=145','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000427.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>大石　一敏（第１５０４００号）</td>
+<td></td>
+<td>免許取消</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=146','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>黒田　正三（第２２３６６３号）</td>
+<td></td>
+<td>免許取消</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=147','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>大草　善一郎（第２５１２８３号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=148','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>中島　雄一郎（第１８９３２８号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=149','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>上杉　祐史（第２６８０９２号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=150','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>中　幸司（第２００９７０号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=151','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>鎌田　善仁（第１１４７４０号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=152','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>金井　美紀夫（第３２８５５８号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=153','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>長坂　広之（第２７０４０２号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=154','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>片桐　利昌（第２１６６４７号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=155','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>荒木　徹（第２５０２３２号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=156','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>恒田　義久（第２２１７６７号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=157','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>白石　敏明（第１４０８３１号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=158','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>池尻　範生（第１６２１３９号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=159','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>武田　素明（第２３４８５７号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=160','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>戸田　博昭（第６１１８４号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=161','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>福森　裕和（第２４８２１５号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=162','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>小鶴　文彦（第３０１５２２号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=163','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>佐藤　雄介（第３２７２６２号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=164','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>後藤　隆義（第１１８６０８号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=165','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>甲斐　彰（第９１７５５号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=166','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>黒米　　勇（第１３２０７３号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=167','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>藤田　叔男（第１３４２４９号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=168','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>丸山　多美夫（第１６２７４３号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=169','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>河野　邦彦（第４５８０９号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=170','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>武井　鴻明（第５５１５３号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=171','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>坪�ｱ　雅一（第２０１３２４号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=172','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>��橋　昭一（第１４８４６５号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=173','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>森山　文之助（第１６５５７９号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=174','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>林　直樹（第２７４０６４号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=175','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>三村　正昭（第２３６４５号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=176','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>津根　義弘（第２９２７１８号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=177','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>宮島　幸一郎（第６９２５１号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=178','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>大塚　照夫（第１００１１５号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=179','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>小松崎　常夫（第４１９２３号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=180','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>重松　欣司（第１０９６２５号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=181','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>辻　輝巳（第６９４０５号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=182','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>吉井　壽一（第１６８７５７号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=183','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年12月14日</td>
+<td>荒木　隆常（第７４５８９号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=184','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000370.html')"></td>
+</tr>
+<tr>
+<td>2012年8月30日</td>
+<td>遠藤　孝（第９６１６１号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=185','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000350.html')"></td>
+</tr>
+<tr>
+<td>2012年8月30日</td>
+<td>大栗　育夫（第１２４６３９号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=186','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000350.html')"></td>
+</tr>
+<tr>
+<td>2012年8月30日</td>
+<td>横川　英夫（第１０５５３６号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=187','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000350.html')"></td>
+</tr>
+<tr>
+<td>2012年8月30日</td>
+<td>三井　啓太郎（第９４１９３号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=188','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000350.html')"></td>
+</tr>
+<tr>
+<td>2012年8月30日</td>
+<td>狩野　洋一（第２０１３０７号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=189','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000350.html')"></td>
+</tr>
+<tr>
+<td>2012年8月30日</td>
+<td>尾又　清（第２２７６２４号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=190','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000350.html')"></td>
+</tr>
+<tr>
+<td>2012年8月30日</td>
+<td>生井　昌三（第７１７２７号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=191','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000350.html')"></td>
+</tr>
+<tr>
+<td>2012年8月30日</td>
+<td>長瀬　暁生（第２６８９８６号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=192','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000350.html')"></td>
+</tr>
+<tr>
+<td>2012年8月30日</td>
+<td>中野　喜久（第９２７２３号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=193','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000350.html')"></td>
+</tr>
+<tr>
+<td>2012年8月30日</td>
+<td>松井　隆雄（第５５８００号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=194','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000350.html')"></td>
+</tr>
+<tr>
+<td>2012年8月30日</td>
+<td>横尾　敏（第２１６７８５号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=195','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000350.html')"></td>
+</tr>
+<tr>
+<td>2012年8月30日</td>
+<td>吉田　雅昭（第１７９０８４号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=196','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000350.html')"></td>
+</tr>
+<tr>
+<td>2012年8月30日</td>
+<td>平野　真司（第３４５１１３号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=197','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000350.html')"></td>
+</tr>
+<tr>
+<td>2012年8月30日</td>
+<td>桜田　修三（第１０５６８８号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=198','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000350.html')"></td>
+</tr>
+<tr>
+<td>2012年8月30日</td>
+<td>佐藤　輝明（第２９２９３９号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=199','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000350.html')"></td>
+</tr>
+<tr>
+<td>2012年8月30日</td>
+<td>高橋　隆一（第２５７９６４号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=200','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000350.html')"></td>
+</tr>
+<tr>
+<td>2012年8月30日</td>
+<td>青木　基浩（第２５４５０８号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=201','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000350.html')"></td>
+</tr>
+<tr>
+<td>2012年8月30日</td>
+<td>加納　孝幸（第１６４３６１号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=202','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000350.html')"></td>
+</tr>
+<tr>
+<td>2012年8月30日</td>
+<td>今井　義明（第９０７４２号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=203','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000350.html')"></td>
+</tr>
+<tr>
+<td>2012年6月18日</td>
+<td>吉田　他起子（第２２２０６９号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=204','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000323.html')"></td>
+</tr>
+<tr>
+<td>2012年6月18日</td>
+<td>久保　直輝（第２３６１４９号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=205','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000323.html')"></td>
+</tr>
+<tr>
+<td>2012年6月18日</td>
+<td>木藤　義巳（第２１４０４５号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=206','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000323.html')"></td>
+</tr>
+<tr>
+<td>2012年6月18日</td>
+<td>前田　登（第１４７３１２号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=207','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000323.html')"></td>
+</tr>
+<tr>
+<td>2012年6月18日</td>
+<td>菅野　憲（第１１９３１３号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=208','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000323.html')"></td>
+</tr>
+<tr>
+<td>2012年6月18日</td>
+<td>鈴木　健雄（第９２８９８号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=209','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000323.html')"></td>
+</tr>
+<tr>
+<td>2012年3月27日</td>
+<td>尾崎　博美（第１０９６９２号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=210','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000298.html')"></td>
+</tr>
+<tr>
+<td>2012年3月27日</td>
+<td>荒谷　由起夫（第２０５４４７号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=211','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000298.html')"></td>
+</tr>
+<tr>
+<td>2012年3月27日</td>
+<td>趙　日善（奈村　日善）（第２２３２７４号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=212','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000298.html')"></td>
+</tr>
+<tr>
+<td>2012年3月27日</td>
+<td>小村　敏夫（第１９６０２６号）</td>
+<td></td>
+<td>業務停止</td>
+<td align="center"><input type="button" value="概要" onClick="window.open('./ihangaiyo.cgi?jigyoubunya=ikkyuu&rowNo=213','','width=750,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes'); return false;"></td>
+<td align="center"><input type="button" value="詳細" onClick="window.open('http://www.mlit.go.jp/report/press/house05_hh_000298.html')"></td>
+</tr>
+	</table>
+	</form>
+	</td>
+	</tr>
+</table>
+</body>
+
+</html>

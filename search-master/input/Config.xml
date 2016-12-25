@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<http_configs>
+	<http_config>
+		<http_url>http://www.yahoo.co.jp/</http_url>
+		<http_method>get</http_method>
+	</http_config>
+	<http_config>
+		<http_url>http://www.mlit.go.jp/nega-inf/cgi-bin/fsearch.cgi</http_url>
+		<http_method>post</http_method>
+		<http_paras>
+			<http_para>
+				<para_key>jigyoubunya</para_key>
+				<para_value>ikkyuu</para_value>
+			</http_para>
+		</http_paras>
+	</http_config>
+</http_configs>
