@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+　　<comment>properties</comment>
+　　<entry key="output.filepath">D:\</entry>
+　　<entry key="hbase.zookeeper.quorum">ubuntu:2181</entry>
+</properties>
