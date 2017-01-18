@@ -51,6 +51,10 @@
             <systemPath>${JAVA_HOME}/lib/tools.jar</systemPath>
         </dependency>
 
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+        </dependency>
     </dependencies>
 
     <build>
@@ -65,7 +69,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>org.apache.gora.tutorial.log.UrlInfoManager</mainClass>
+                            <mainClass>com.futuredata.bigdata.gora.action.WebPageAction</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

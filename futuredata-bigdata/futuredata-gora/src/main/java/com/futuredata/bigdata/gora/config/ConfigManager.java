@@ -1,9 +1,7 @@
 package com.futuredata.bigdata.gora.config;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.util.InvalidPropertiesFormatException;
 import java.util.Properties;
 
 public class ConfigManager {
@@ -35,15 +33,7 @@ public class ConfigManager {
 	Properties props = new Properties();
 
 	try {
-
-	    props.loadFromXML(new FileInputStream("configuration.xml"));
-
-	} catch (InvalidPropertiesFormatException e) {
-	    // TODO Auto-generated catch block
-	    e.printStackTrace();
-	} catch (FileNotFoundException e) {
-	    // TODO Auto-generated catch block
-	    e.printStackTrace();
+	    props.load(new FileInputStream("src/main/resources/futuredata-gora-config.properties"));
 	} catch (IOException e) {
 	    // TODO Auto-generated catch block
 	    e.printStackTrace();

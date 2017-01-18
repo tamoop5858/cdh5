@@ -17,15 +17,14 @@ public class OutputFileManager {
 	return config.getOutputFilepath() + "\\" + fileName;
     }
 
-    private String getFileNameByRule(String name) {
+    private String getFileNameByRule(String fileName) {
 
-	if (name == null || name == "") {
+	if (fileName == null || fileName == "") {
 
 	    SimpleDateFormat df = new SimpleDateFormat("yyyyMMddHHmmss");
-	    name = df.format(new Date());
+	    fileName = df.format(new Date());
 	}
 
-	return name;
+	return fileName;
     }
-
 }
