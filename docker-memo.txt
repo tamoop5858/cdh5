@@ -1,0 +1,62 @@
+apt-get update
+
+wget -qO- https://get.docker.com/ | sh
+
+docker pull ubuntu:14.04.5
+
+*********
+vi /etc/default/docker
+DOCKER_OPTS="-g /storage/docker/metadata"
+*********
+
+
+mkdir /storage/docker/share
+
+**********
+docker run -it --hostname node1 --name node1 -p 10001:10001 -v /storage/docker/share:/share ubuntu:14.04.5 /bin/bash
+docker run -it --hostname node2 --name node2 -p 10002:10002 -v /storage/docker/share:/share ubuntu:14.04.5 /bin/bash
+docker run -it --hostname node3 --name node3 -p 10003:10003 -v /storage/docker/share:/share ubuntu:14.04.5 /bin/bash
+
+**********
+docker exec -it node1 /bin/bash
+
+
+
+apt-get update
+apt-get -y install vim
+passwd
+vi /etc/hosts
+
+*******************************
+apt-get update
+sudo apt install -y python-setuptools
+
+sudo apt install -y python-pip
+sudo pip install pip --upgrade
+sudo apt install -y python-dev libffi-dev libssl-dev
+
+apt-get install python-apt
+
+#sudo pip install ansible
+pip install ansible==2.1.2.0 -I
+
+sudo pip install --upgrade ansible
+apt-get install python-apt
+
+****** slave node *********
+ apt-get install python-pip
+ apt-get install python-apt
+ 
+ 
+ 
+**************************
+apt-get install openssh-server
+ps -e |grep ssh
+
+vi /etc/ssh/sshd_config
+  ‚¢‚Â‚à‚Ì2ŒÂ
+  
+passwd
+sudo /etc/init.d/ssh start
+
+*************
