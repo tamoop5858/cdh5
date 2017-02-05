@@ -32,3 +32,57 @@ docker pull centos:centos6.7
 docker run -it --name node1 -h node1 -p 11111:11111 -p 22222:22222 -v /root/docker:/root/docker centos:centos6.7 /bin/bash
 
 docker exec -it node1 /bin/bash
+
+
+
+******************************************
+
+vi /etc/sysconfig/network-scripts/ifcfg-eth0
+172.31.17.240  Bcast:172.31.31.255  Mask:255.255.240.0
+
+route
+172.31.16.0     *               255.255.240.0   U     0      0        0 eth0
+default         ip-172-31-16-1. 0.0.0.0         UG    0      0        0 eth0
+
+
+
+DEVICE="eth0"
+BOOTPROTO="static"
+IPV6INIT="yes"
+MTU="1500"
+NM_CONTROLLED="yes"
+ONBOOT="yes"
+TYPE="Ethernet"
+UUID="52658143-fe10-477a-861f-410a6e8f57e4"
+IPADDR="172.31.17.240"
+NETMASK="255.255.240.0"
+GATEWAY="172.31.16.1"
+PEERDNS="no"
+
+
+
+yum -y install openssh-server
+yum -y install openssh-clients
+vi /etc/ssh/sshd_config
+
+
+/etc/rc.d/init.d/sshd restart 
+
+yum install passwd Setting up Install Process
+
+
+yum groupinstall "development tools"
+
+wget https://www.python.org/ftp/python/2.7.6/Python-2.7.6.tgz
+tar zxvf Python-2.7.6.tgz
+
+cd Python-2.7.6
+./configure --prefix=/usr/local
+make
+make altinstall
+
+python2.7 -V
+wget https://bootstrap.pypa.io/get-pip.py
+python2.7 get-pip.py
+
+pip install ansible==2.1.2.0 -I
