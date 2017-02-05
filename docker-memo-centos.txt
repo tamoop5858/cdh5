@@ -1,0 +1,34 @@
+[centos@centos1 ~]$ cat /etc/redhat-release
+CentOS release 6.7 (Final)
+[centos@centos1 ~]$
+
+vi /etc/ssh/sshd_config
+
+
+*********************************** docker ****************
+$ sudo yum update
+
+$ cat > docker.repo <<-EOF
+[dockerrepo]
+name=Docker Repository
+baseurl=https://yum.dockerproject.org/repo/main/centos/6
+enabled=1
+gpgcheck=1
+gpgkey=https://yum.dockerproject.org/gpg
+EOF
+
+$ sudo mv docker.repo /etc/yum.repos.d/
+
+
+sudo yum install -y docker-engine
+
+sudo chkconfig docker on
+   
+sudo service docker start
+
+
+docker pull centos:centos6.7
+
+docker run -it --name node1 -h node1 -p 11111:11111 -p 22222:22222 -v /root/docker:/root/docker centos:centos6.7 /bin/bash
+
+docker exec -it node1 /bin/bash
