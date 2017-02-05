@@ -1,0 +1,35 @@
+vi /etc/sysconfig/network-scripts/ifcfg-eth0
+172.31.17.240  Bcast:172.31.31.255  Mask:255.255.240.0
+
+route
+172.31.16.0     *               255.255.240.0   U     0      0        0 eth0
+default         ip-172-31-16-1. 0.0.0.0         UG    0      0        0 eth0
+
+
+
+DEVICE="eth0"
+BOOTPROTO="static"
+IPV6INIT="yes"
+MTU="1500"
+NM_CONTROLLED="yes"
+ONBOOT="yes"
+TYPE="Ethernet"
+UUID="52658143-fe10-477a-861f-410a6e8f57e4"
+IPADDR="172.31.17.240"
+NETMASK="255.255.240.0"
+GATEWAY="172.31.16.1"
+PEERDNS="no"
+
+
+*****************************************************:
+
+
+auto eth0
+iface eth0 inet static
+address 172.31.17.10
+network 172.31.0.0
+netmask 255.0.0.0
+broadcast 172.31.0.255
+gateway 172.31.16.1
+dns-nameservers 8.8.8.8
+PEERDNS no
