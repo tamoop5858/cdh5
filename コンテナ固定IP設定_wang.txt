@@ -1,0 +1,25 @@
+docker container 固定IP設定
+
+■前提
+host情報
+ip: 10.168.1.200
+subnet:10.10.0.0/8
+gateway:10.168.0.254
+
+docker情報
+bridge name:docker1
+docker network name:hadoop_nw
+gateway:10.168.0.254
+subnet:10.168.0.0/24
+container ip:10.168.0.10
+
+■設定
+docker network create --driver bridge --subnet=10.168.0.0/24 --gateway=10.168.0.254 --opt "com.docker.network.bridge.name"="docker1" hadoop_nw
+docker run -it --net=hadoop_nw --ip=10.168.0.10 --hostname node1 --name node1 -p 10001:10001 -v /storage/docker/share:/share ubuntu:14.04.5 /bin/bash
+
+■参考
+bridge削除
+ip link set dev docker1 down
+brctl delbr docker1
+docker network rm shared_nw
+
