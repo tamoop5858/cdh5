@@ -1,0 +1,99 @@
+http://www.tuicool.com/articles/UJJJFjU
+
+apt-get install linux-generic-lts-vivid
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+docker $(docker-machine config consul2) run -d \
+-p "8501:8500" \
+-h "consul" \
+progrium/consul -server -bootstrap
+
+
+
+
+vi /etc/default/docker
+
+
+DOCKER_OPTS='
+
+-H tcp://0.0.0.0:2376
+
+-H unix:///var/run/docker.sock
+
+--cluster-store=consul://172.25.2.43:8501
+
+--cluster-advertise=eth0:2376
+
+
+
+'
+
+
+DOCKER_OPTS="-g /storage/docker/metadata -H tcp://0.0.0.0:2376 -H unix:///var/run/docker.sock --cluster-store=consul://172.31.25.168:8501 --cluster-advertise=eth0:2376"
+
+
+
+
+ªªªªªªªªªªª ¸”s ªªªªªªª
+
+http://knowledge.sakura.ad.jp/knowledge/4786/
+
+
+
+curl -L  https://github.com/coreos/etcd/releases/download/v2.1.0-rc.0/etcd-v2.1.0-rc.0-linux-amd64.tar.gz -o etcd-v2.1.0-rc.0-linux-amd64.tar.gz
+tar xzvf etcd-v2.1.0-rc.0-linux-amd64.tar.gz
+cd etcd-v2.1.0-rc.0-linux-amd64
+./etcd
+
+
+
+
+   34  sudo apt-get install ufw
+   35  sudo ufw status
+   
+   sudo ufw enable
+   
+   36  sudo ufw allow 2379/tcp
+   37  sudo ufw allow 2380/tcp
+   
+   
+   
++++++++++++++++++++++++++++++++++
+ http://qiita.com/Arturias/items/dd7f9e2365626dd4ad51
+ 
+ 
+wget https://releases.hashicorp.com/consul/0.7.4/consul_0.7.4_linux_amd64.zip
+
+ 
+ 
+ 
+ unzip consul_0.7.4_linux_amd64.zip
+ 
+ sudo cp consul /usr/local/bin/
+ 
+ consul agent -server -bootstrap -data-dir=/tmp/consul -bind=172.31.25.168
+ 
+ ***********************************************************
+
+
+docker run -d -p 8500:8500 --name consul01 -h consul01 progrium/consul -server -bootstrap
+
+
+docker run -d -p 2375:2375 --name swmgr01 swarm manage consul://172.31.25.168:8500/my_cluster
+
+
+/lib/systemd/system/docker.service
+
+
+ExecStart=/usr/bin/docker daemon -H tcp://0.0.0.0:2375 -H unix:///var/run/docker.sock --cluster-store=consul://172.31.25.168:8500/my_cluster --cluster-advertise=eth0:2375
+
+docker run --rm swarm list consul://172.31.25.168:8500/my_cluster
+
+update-rc.d systemctl enable
+/lib/systemd/system/systemctl daemon-reload
+
+
+
+*************************************************************
+http://www.itmedia.co.jp/enterprise/articles/1611/02/news001.html
