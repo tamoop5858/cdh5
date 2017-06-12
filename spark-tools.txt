@@ -1,0 +1,38 @@
+https://github.com/sryza/aas
+
+*****************************************************************************************************************
+
+$ wget http://ftp.jaist.ac.jp/pub/apache/maven/maven-3/3.2.5/binaries/apache-maven-3.2.5-bin.zip
+$ unzip apache-maven-3.2.5-bin.zip
+
+
+export M2_HOME=/opt/apache-maven-3.2.5/
+export PATH=${M2_HOME}/bin:${PATH}
+
+
+
+****************************
+http://data-flair.training/blogs/install-configure-run-apache-spark-2-x-single-node/
+
+
+vi ~/.bashrc
+export M2_HOME=/opt/apache-maven-3.2.5/
+export PATH=${M2_HOME}/bin:${PATH}
+export SCALA_HOME=/opt/scala-2.11.8/
+export PATH=$SCALA_HOME/bin:$PATH
+export SPARK_HOME=/opt/spark-2.0.0-bin-hadoop2.7/
+export PATH=$PATH:$SPARK_HOME/bin
+
+source ~/.bashrc
+
+
+
+
+vi /
+HADOOP_CONF_DIR=/etc/hadoop/conf.empty
+
+/opt/spark-2.0.0-bin-hadoop2.7/bin/spark-submit --master yarn --conf spark.hbase.host=192.168.1.74 --class jp.co.crawler.tools.FetchSummary target/fetch-summary-2.0.0-jar-with-dependencies.jar
+
+
+/opt/spark-2.0.0-bin-hadoop2.7/bin/spark-submit --master local --conf spark.hbase.host=192.168.1.74 --class jp.co.crawler.tools.FetchSummary target/fetch-summary-2.0.0-jar-with-dependencies.jar
+
